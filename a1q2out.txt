@@ -1,0 +1,11 @@
+Scenario Number 1!
+The Minimum Overall Time is: 210
+Step 1:    Stop 2
+Step 2:    Stop 1
+
+Scenario Number 2!
+The Minimum Overall Time is: 282
+Step 1:    Stop 1
+Step 2:    Stop 1
+Step 3:    Stop 1
+
